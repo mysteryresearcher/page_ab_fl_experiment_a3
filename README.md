@@ -1,5 +1,6 @@
 # Preparation
 
+
 ## Install Conda environment
 If you don't have conda package and environment manager you can install via the following steps for Linux OS:
 ```bash
